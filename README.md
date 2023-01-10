@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fozan-Talat
-- 👀 I’m interested in Data Science , Engineering, Analysis
-- 🌱 I’m currently learning  Data Engineering
+- 👀 I’m interested in Data & ML Engineering
+- 🌱 I’m currently learning  Modern Data & ML stack
 - 💞️ I’m looking to collaborate on  any data topic
 - 📫 How to reach me  https://www.linkedin.com/in/fozan-talat-39994965/
 

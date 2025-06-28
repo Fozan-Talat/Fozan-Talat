@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fozan-Talat
-- 👀 I’m interested in Machine Learning Engineering
-- 🌱 I’m currently learning NLP/LLM Engineering
+- 👀 I’m a Machine Learning Engineer
+- 🌱 I’m currently working on NLP/LLMs and Diffusion models
 - 💞️ I’m looking to collaborate on  any AI/ML topic
 - 📫 How to reach me  https://www.linkedin.com/in/fozan-talat/
 
